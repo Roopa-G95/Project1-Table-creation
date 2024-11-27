@@ -1,6 +1,6 @@
-Show databases;
-Create database studentname;
-select * from student_marklist;
+SHOW DATABASE;
+CREATE TABLE studentname;
+SELECT * FROM student_marklist;
 
 
 
